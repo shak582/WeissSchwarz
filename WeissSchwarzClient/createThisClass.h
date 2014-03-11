@@ -12,7 +12,7 @@
 #include "game.h"
 #include "textureManager.h"
 #include "image.h"
-#include "textDX.h"
+#include "textDX.h"mysq
 
 //=============================================================================
 // This class is the core of the game
